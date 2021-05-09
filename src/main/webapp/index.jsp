@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Hello World....</title>
+<title>Techies</title>
 </head>
 <body>
 	<h1>MGRD KLISHA bulli</h1>
